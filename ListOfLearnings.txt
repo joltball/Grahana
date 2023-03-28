@@ -1,5 +1,24 @@
-Programming Language - Ruby, Python, C#
-Project Management - PMP
+Programming Language - Python, Java
 Cloud based technologies - AWS
 Docker
-TODO on Automation Architect capabilities
+
+Working Experience being full stack in any one of the programming languages preferably Python/Java
+Strong Database Skills, strong in SQL Queries (DMLs, DDLs, Joins, Functions)
+Strong knowledge of continuous integration and deployment – Git, Maven, Jenkins, Udeploy, BIT bucket, Docker, SonarQube, etc.
+Demonstrated experience with cloud technologies, DevOps, CI/CD experience
+Experience in Data Mining, Test data creation and Database Migration
+Experience in handling Data feed files of both Structural and Unstructured Data (XMLs, CSVs, JSONS)
+Hands on Experience in Linux/Unix
+Should have exposure to cloud-based systems design, development, and hosting.
+Experience in testing Data Lakes, AWS/S3
+Hands on experience on Test Automation using Selenium
+Good understanding/implementation of Automation Frameworks – Data Driven, Key word Driven, Hybrid
+
+
+
+
+
+************************************************************************
+Exposure to Behavior Driven Development (BDD), Test Driven Development (TDD).
+Good understanding of CI-CD and DevOps concepts is preferred.
+************************************************************************
